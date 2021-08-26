@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=MarkAntonyGit/Python_Access-log.git)
 
 # Python_Access-log
-Python program to analyze access log and plot details as graphs. 
+Python program to analyze access log and plot details as graphs 
 
 # Description
 
