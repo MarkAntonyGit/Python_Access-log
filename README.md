@@ -5,7 +5,7 @@ Python program to analyze access log and plot details as graphs.
 
 # Description
 
-Here I have crated a python script to analyze access_log and plot the hits per IP, date and country using the matplotlib and pandas modules. The script also uses two other custom modules, logparser and ipstack , which I have uploaded in this repository. The script analyze the access_log with respect to hits per IP, hits per date and hits per country. 
+Here I have crted a python script to analyze access_log and plot the hits per IP, date and country using the matplotlib and pandas modules. The script also uses two other custom modules, logparser and ipstack , which I have uploaded in this repository. The script analyze the access_log with respect to hits per IP, hits per date and hits per country. 
 
 ### Hits per IP
 
